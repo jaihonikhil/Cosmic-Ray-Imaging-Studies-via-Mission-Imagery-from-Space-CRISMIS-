@@ -8,3 +8,5 @@ new_dataset.ipynb downloads the .IMG files from the directory whose url we are p
 Image classification ML Model classifies the images accordingly whether they are a CCD Artifact or notsed on CNN model.
 
 The dataset comprises of manually labelled CCD and non-CCD Artifacts for both test and training.
+https://drive.google.com/open?id=19YjugEiIH43yCnAoR26MjmHWbbt8WzVF 
+Here is the link of the Manually labelled Dataset and is used for training and test of the ML Model Code.
